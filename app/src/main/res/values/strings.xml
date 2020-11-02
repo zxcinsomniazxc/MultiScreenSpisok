@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MultiScreenSpisok</string>
+    <string name="Argentine">Аргентина</string>
+    <string name="Chili">Чили</string>
+    <string name="Urugvay">Уругвай</string>
+    <string name="Columbia">Колумбия</string>
+    <string name="Brazilia">Бразилия</string>
+    <string name="Flag">флаг</string>
+</resources>
